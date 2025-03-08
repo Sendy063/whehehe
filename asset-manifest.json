@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sendy063/whehehe/static/css/main.469c5a50.css",
+    "main.js": "/Sendy063/whehehe/static/js/main.e6dec7a6.js",
+    "static/js/453.acca0757.chunk.js": "/Sendy063/whehehe/static/js/453.acca0757.chunk.js",
+    "index.html": "/Sendy063/whehehe/index.html",
+    "main.469c5a50.css.map": "/Sendy063/whehehe/static/css/main.469c5a50.css.map",
+    "main.e6dec7a6.js.map": "/Sendy063/whehehe/static/js/main.e6dec7a6.js.map",
+    "453.acca0757.chunk.js.map": "/Sendy063/whehehe/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469c5a50.css",
+    "static/js/main.e6dec7a6.js"
+  ]
+}
